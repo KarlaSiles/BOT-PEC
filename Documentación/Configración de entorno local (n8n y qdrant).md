@@ -39,7 +39,7 @@ Este directorio funciona como el espacio desde el cual se administra el entorno 
 
 La arquitectura local que implementé puede resumirse de la siguiente manera:
 
-![Arquitectura local de n8n y qdrant con Docker](images/local-architecture_n8n_qdrant_docker.png)
+![Arquitectura local de n8n y qdrant con Docker](https://github.com/KarlaSiles/BOT-PEC/blob/main/Images/local-architecture_n8n_qdrant_docker.png?raw=true)
 
 ### 4. Despliegue con Docker Compose
 
@@ -100,7 +100,7 @@ Al finalizar la configuración anteriormente descrita quedó disponible una infr
 
 La arquitectura resultante puede representarse conceptualmente como:
 
-![Arquitectura completa](images/Entire-architecture.png)
+![Arquitectura completa](https://github.com/KarlaSiles/BOT-PEC/blob/main/Images/Entire-architecture.png?raw=true)
 
 ### Estado actual
 
